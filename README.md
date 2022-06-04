@@ -1,6 +1,3 @@
-# Projeto-flexbox-DIO
-Landing page criada utlizando flexbox
-
 # project flexbox DIO
 
 Este é meu primeiro projeto de Landing Page, usando Flexbox, desenvolvido sob orientação da instrutora Karen Santos.
